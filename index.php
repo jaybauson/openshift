@@ -1,5 +1,9 @@
 <?php
-#phpinfo();
+echo "<pre>";
+print_r($_SERVER);
+echo "<hr>";
+print_r($_ENV);
+echo "</pre>";
 echo getenv('php-weather-api-key');
 echo "<hr/>";
 phpinfo();
