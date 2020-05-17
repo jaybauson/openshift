@@ -1,6 +1,6 @@
 <?php
 #phpinfo();
-echo getenv('owm-api');
+echo getenv('php-weather-api-key');
 echo "<hr/>";
 phpinfo();
 #05ac784e926abb5f7952bd4cb9fb73bb
