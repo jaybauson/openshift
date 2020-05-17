@@ -1,6 +1,6 @@
 <?php
 #phpinfo();
-echo getenv('owm_api');
+echo getenv('owm-api');
 echo "<hr/>";
 phpinfo();
 #05ac784e926abb5f7952bd4cb9fb73bb
